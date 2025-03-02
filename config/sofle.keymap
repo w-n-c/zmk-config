@@ -21,10 +21,6 @@
 #define IDLE_TIMEOUT 300000     // 5 minutes in milliseconds
 #define SLEEP_TIMEOUT 1800000   // 30 minutes in milliseconds
 
-&nice_view_spi {
-    cs-gpios = <&pro_micro 0 GPIO_ACTIVE_HIGH>;
-};
-
 / {
     behaviors {
         // Easier hold-tap for beginners
