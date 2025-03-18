@@ -14,7 +14,7 @@
 #define LOWER 1
 #define RAISE 2
 #define ADJUST 3
-#define GRVESC &mt GRAVE ESC
+#define ESCGRV &mt ESC GRAVE
 
 / {
 
@@ -33,17 +33,18 @@
         default_layer {
             display-name = "main";
 // ------------------------------------------------------------------------------------------------------------
-// |   `   |  1  |  2  |  3   |  4   |  5   |                   |  6   |  7    |  8    |  9   |   0   |   -   |
-// |  ESC  |  Q  |  W  |  E   |  R   |  T   |                   |  Y   |  U    |  I    |  O   |   P   |   =   |
-// |  TAB  |  A  |  S  |  D   |  F   |  G   |                   |  H   |  J    |  K    |  L   |   ;   |   '   |
-// | SHIFT |  Z  |  X  |  C   |  V   |  B   |  MUTE  |  | PLAY  |  N   |  M    |  ,    |  .   |   /   |   \   |
-//               | GUI | ALT  | CTRL | LOWER|  ENTER |  | SPACE |RAISE | CTRL  | ALT   | GUI  |
+// |   `   |  1   |  2   |  3   |  4   |  5   |                   |  6   |  7    |  8    |  9   |   0   |   -   |
+// |  ESC  |  Q   |  W   |  E   |  R   |  T   |                   |  Y   |  U    |  I    |  O   |   P   |   =   |
+// |  TAB  |  A   |  S   |  D   |  F   |  G   |                   |  H   |  J    |  K    |  L   |   ;   |   '   |
+// | SHIFT |  Z   |  X   |  C   |  V   |  B   |  MUTE  |  | PLAY  |  N   |  M    |  ,    |  .   |   /   |   \   |
+//                | CTRL | ALT  | GUI  | ENTER|  SPACE |  | SPACE | BSPC |  DEL  | LOWER | RAISE|
+
             bindings = <
-GRVESC    &kp N1 &kp N2   &kp N3   &kp N4    &kp N5                           &kp N6 &kp N7    &kp N8    &kp N9   &kp N0   &kp MINUS
-&kp ESC   &kp Q  &kp W    &kp E    &kp R     &kp T                            &kp Y  &kp U     &kp I     &kp O    &kp P    &kp EQUAL
-&kp TAB   &kp A  &kp S    &kp D    &kp F     &kp G                            &kp H  &kp J     &kp K     &kp L    &kp SEMI &kp SQT
-&kp LSHFT &kp Z  &kp X    &kp C    &kp V     &kp B      &kp C_MUTE &kp C_PP   &kp N  &kp M     &kp COMMA &kp DOT  &kp FSLH &kp BSLH
-                 &kp LGUI &kp LALT &kp LCTRL &mo LOWER  &kp SPACE  &kp RET  &mo RAISE  &kp RCTRL &kp RALT  &kp RGUI
+ESCGRV    &kp N1 &kp N2    &kp N3   &kp N4   &kp N5                          &kp N6    &kp N7    &kp N8    &kp N9   &kp N0   &kp MINUS
+&kp ESC   &kp Q  &kp W     &kp E    &kp R    &kp T                           &kp Y     &kp U     &kp I     &kp O    &kp P    &kp EQUAL
+&kp TAB   &kp A  &kp S     &kp D    &kp F    &kp G                           &kp H     &kp J     &kp K     &kp L    &kp SEMI &kp SQT
+&kp LSHFT &kp Z  &kp X     &kp C    &kp V    &kp B      &kp C_MUTE &kp C_PP  &kp N     &kp M     &kp COMMA &kp DOT  &kp FSLH &kp BSLH
+                 &kp LCTRL &kp LALT &kp LGUI &kp ENTER  &kp SPACE  &kp SPACE &kp BSPC  &kp DEL   &kp LOWER  &mo RAISE
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp C_PREV C_NEXT>;
