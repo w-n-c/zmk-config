@@ -61,7 +61,7 @@ ESCGRV    &kp N1 &kp N2    &kp N3   &kp N4   &kp N5                          &kp
 &trans  &kp F6   &kp F7   &kp F8  &kp F9  &kp F10                  &trans  &kp KP_N1   &kp KP_N8     &kp KP_N9        &kp KP_MINUS  &kp F12
 &trans  &kp F11  &kp F12  &trans  &trans  &trans                   &trans  &kp KP_N4   &kp KP_N5     &kp KP_N6        &kp KP_PLUS   &kp PIPE
 &trans  &trans   &trans   &trans  &trans  &trans   &trans  &trans  &trans  &kp KP_N1   &kp KP_N2     &kp KP_N3        &kp ENTER     &trans
-                 &trans   &trans  &trans  &trans   &trans  &trans  &trans  &KP KP_N0   &to LOWER     &kp KP_DOT
+                 &trans   &trans  &trans  &trans   &trans  &trans  &trans  &kp KP_N0   &to LOWER     &kp KP_DOT
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp C_PREV C_NEXT>;
