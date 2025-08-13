@@ -1,0 +1,630 @@
+<svg viewBox="0 0 1200 1800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="1800" fill="#f8f9fa" rx="8" ry="8"/>
+  
+  <!-- Title -->
+  <text x="600" y="50" font-family="Arial, sans-serif" font-size="28" text-anchor="middle" font-weight="bold" fill="#333">
+    Split Mechanical Keyboard - Complete Layout Guide
+  </text>
+  
+  <!-- Layer name -->
+  <text x="600" y="100" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" font-weight="bold" fill="#4A5568">
+    Main Layer (Default)
+  </text>
+  
+  <!-- Left half of keyboard - Main Layer -->
+  <g id="left-main">
+    <!-- Row 1 -->
+    <g>
+      <rect x="100" y="150" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="170" y="150" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="240" y="150" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="310" y="150" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="380" y="150" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="450" y="150" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      
+      <text x="130" y="175" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">` ~</text>
+      <text x="130" y="195" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#4A5568">ESC (hold)</text>
+      <text x="200" y="185" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">1</text>
+      <text x="270" y="185" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">2</text>
+      <text x="340" y="185" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">3</text>
+      <text x="410" y="185" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">4</text>
+      <text x="480" y="185" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">5</text>
+    </g>
+    
+    <!-- Row 2 -->
+    <g>
+      <rect x="100" y="220" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="170" y="220" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="240" y="220" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="310" y="220" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="380" y="220" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="450" y="220" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      
+      <text x="130" y="255" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">TAB</text>
+      <text x="200" y="255" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">Q</text>
+      <text x="270" y="255" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">W</text>
+      <text x="340" y="255" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">E</text>
+      <text x="410" y="255" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">R</text>
+      <text x="480" y="255" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">T</text>
+    </g>
+    
+    <!-- Row 3 -->
+    <g>
+      <rect x="100" y="290" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="170" y="290" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="240" y="290" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="310" y="290" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="380" y="290" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="450" y="290" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      
+      <text x="130" y="325" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">CAPS</text>
+      <text x="200" y="325" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">A</text>
+      <text x="270" y="325" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">S</text>
+      <text x="340" y="325" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">D</text>
+      <text x="410" y="325" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">F</text>
+      <text x="480" y="325" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">G</text>
+    </g>
+    
+    <!-- Row 4 -->
+    <g>
+      <rect x="100" y="360" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="170" y="360" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="240" y="360" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="310" y="360" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="380" y="360" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="450" y="360" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="520" y="360" width="60" height="60" rx="6" ry="6" fill="#90CDF4" stroke="#63B3ED"/>
+      
+      <text x="130" y="395" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">SHIFT</text>
+      <text x="200" y="395" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">Z</text>
+      <text x="270" y="395" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">X</text>
+      <text x="340" y="395" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">C</text>
+      <text x="410" y="395" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">V</text>
+      <text x="480" y="395" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">B</text>
+      <text x="550" y="395" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">MUTE</text>
+    </g>
+    
+    <!-- Row 5 (thumbs) -->
+    <g>
+      <rect x="240" y="430" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="310" y="430" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="380" y="430" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="450" y="430" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="520" y="430" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      
+      <text x="270" y="465" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">CTRL</text>
+      <text x="340" y="465" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">ALT</text>
+      <text x="410" y="465" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">GUI</text>
+      <text x="480" y="465" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">ENTER</text>
+      <text x="550" y="465" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">SPACE</text>
+    </g>
+
+    <!-- Left encoder -->
+    <g>
+      <circle cx="550" cy="320" r="30" fill="#90CDF4" stroke="#63B3ED" stroke-width="2"/>
+      <text x="550" y="315" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#1A202C">VOLUME</text>
+      <text x="550" y="335" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#1A202C">UP/DOWN</text>
+    </g>
+  </g>
+  
+  <!-- Right half of keyboard - Main Layer -->
+  <g>
+    <!-- Row 1 -->
+    <g>
+      <rect x="690" y="150" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="760" y="150" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="830" y="150" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="900" y="150" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="970" y="150" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="1040" y="150" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      
+      <text x="720" y="185" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">6</text>
+      <text x="790" y="185" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">7</text>
+      <text x="860" y="185" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">8</text>
+      <text x="930" y="185" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">9</text>
+      <text x="1000" y="185" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">0</text>
+      <text x="1070" y="185" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">-</text>
+    </g>
+    
+    <!-- Row 2 -->
+    <g>
+      <rect x="690" y="220" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="760" y="220" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="830" y="220" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="900" y="220" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="970" y="220" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="1040" y="220" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      
+      <text x="720" y="255" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">Y</text>
+      <text x="790" y="255" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">U</text>
+      <text x="860" y="255" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">I</text>
+      <text x="930" y="255" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">O</text>
+      <text x="1000" y="255" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">P</text>
+      <text x="1070" y="255" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">=</text>
+    </g>
+    
+    <!-- Row 3 -->
+    <g>
+      <rect x="690" y="290" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="760" y="290" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="830" y="290" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="900" y="290" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="970" y="290" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="1040" y="290" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      
+      <text x="720" y="325" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">H</text>
+      <text x="790" y="325" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">J</text>
+      <text x="860" y="325" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">K</text>
+      <text x="930" y="325" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">L</text>
+      <text x="1000" y="325" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">;</text>
+      <text x="1070" y="325" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">'</text>
+    </g>
+    
+    <!-- Row 4 -->
+    <g>
+      <rect x="620" y="360" width="60" height="60" rx="6" ry="6" fill="#90CDF4" stroke="#63B3ED"/>
+      <rect x="690" y="360" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="760" y="360" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="830" y="360" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="900" y="360" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="970" y="360" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="1040" y="360" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      
+      <text x="650" y="395" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">PLAY</text>
+      <text x="720" y="395" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">N</text>
+      <text x="790" y="395" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">M</text>
+      <text x="860" y="395" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">,</text>
+      <text x="930" y="395" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">.</text>
+      <text x="1000" y="395" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">/</text>
+      <text x="1070" y="395" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">\</text>
+    </g>
+    
+    <!-- Row 5 (thumbs) -->
+    <g>
+      <rect x="620" y="430" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="690" y="430" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="760" y="430" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="830" y="430" width="60" height="60" rx="6" ry="6" fill="#F687B3" stroke="#ED64A6"/>
+      <rect x="900" y="430" width="60" height="60" rx="6" ry="6" fill="#B794F4" stroke="#9F7AEA"/>
+      
+      <text x="650" y="465" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">SPACE</text>
+      <text x="720" y="465" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">BSPC</text>
+      <text x="790" y="465" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">DEL</text>
+      <text x="860" y="465" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#1A202C">LOWER</text>
+      <text x="930" y="465" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#1A202C">RAISE</text>
+    </g>
+
+    <!-- Right encoder -->
+    <g>
+      <circle cx="650" cy="320" r="30" fill="#90CDF4" stroke="#63B3ED" stroke-width="2"/>
+      <text x="650" y="315" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#1A202C">PREV/NEXT</text>
+      <text x="650" y="335" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#1A202C">TRACK</text>
+    </g>
+  </g>
+
+  <!-- Keyboard Case Outline - Main Layer -->
+  <path d="M90,120 Q70,120 70,140 L70,510 Q70,530 90,530 L570,530 Q590,530 590,510 L590,140 Q590,120 570,120 L90,120 Z" stroke="#CBD5E0" stroke-width="2" fill="none"/>
+  <path d="M630,120 Q610,120 610,140 L610,510 Q610,530 630,530 L1130,530 Q1150,530 1150,510 L1150,140 Q1150,120 1130,120 L630,120 Z" stroke="#CBD5E0" stroke-width="2" fill="none"/>
+
+  <!-- Layer name -->
+  <text x="600" y="580" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" font-weight="bold" fill="#F687B3">
+    Lower Layer (Number Pad)
+  </text>
+  
+  <!-- Left half of keyboard - Lower Layer -->
+  <g id="left-lower">
+    <!-- Row 1 -->
+    <g>
+      <rect x="100" y="630" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="170" y="630" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="240" y="630" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="310" y="630" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="380" y="630" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="450" y="630" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      
+      <text x="200" y="665" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">F1</text>
+      <text x="270" y="665" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">F2</text>
+      <text x="340" y="665" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">F3</text>
+      <text x="410" y="665" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">F4</text>
+      <text x="480" y="665" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">F5</text>
+    </g>
+    
+    <!-- Row 2 -->
+    <g>
+      <rect x="100" y="700" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="170" y="700" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="240" y="700" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="310" y="700" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="380" y="700" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="450" y="700" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      
+      <text x="200" y="735" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">F6</text>
+      <text x="270" y="735" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">F7</text>
+      <text x="340" y="735" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">F8</text>
+      <text x="410" y="735" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">F9</text>
+      <text x="480" y="735" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">F10</text>
+    </g>
+    
+    <!-- Row 3 -->
+    <g>
+      <rect x="100" y="770" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="170" y="770" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="240" y="770" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="310" y="770" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="380" y="770" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="450" y="770" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      
+      <text x="130" y="805" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="200" y="805" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">F11</text>
+      <text x="270" y="805" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">F12</text>
+      <text x="340" y="805" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="410" y="805" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="480" y="805" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+    </g>
+    
+    <!-- Row 4 -->
+    <g>
+      <rect x="100" y="840" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="170" y="840" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="240" y="840" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="310" y="840" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="380" y="840" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="450" y="840" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="520" y="840" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      
+      <text x="130" y="875" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="200" y="875" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="270" y="875" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="340" y="875" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="410" y="875" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="480" y="875" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="550" y="875" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+    </g>
+    
+    <!-- Row 5 (thumbs) -->
+    <g>
+      <rect x="240" y="910" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="310" y="910" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="380" y="910" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="450" y="910" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="520" y="910" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      
+      <text x="270" y="945" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="340" y="945" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="410" y="945" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="480" y="945" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="550" y="945" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+    </g>
+  </g>
+  
+  <!-- Right half of keyboard - Lower Layer -->
+  <g>
+    <!-- Row 1 -->
+    <g>
+      <rect x="690" y="630" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="760" y="630" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="830" y="630" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="900" y="630" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="970" y="630" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="1040" y="630" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      
+      <text x="720" y="665" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="790" y="665" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">NUM</text>
+      <text x="860" y="665" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">/</text>
+      <text x="930" y="665" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">*</text>
+      <text x="1000" y="665" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">BSPC</text>
+    </g>
+    
+    <!-- Row 2 -->
+    <g>
+      <rect x="690" y="700" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="760" y="700" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="830" y="700" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="900" y="700" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="970" y="700" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="1040" y="700" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      
+      <text x="720" y="735" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="790" y="735" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">7</text>
+      <text x="860" y="735" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">8</text>
+      <text x="930" y="735" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">9</text>
+      <text x="1000" y="735" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">-</text>
+    </g>
+    
+    <!-- Row 3 -->
+    <g>
+      <rect x="690" y="770" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="760" y="770" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="830" y="770" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="900" y="770" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="970" y="770" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="1040" y="770" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      
+      <text x="720" y="805" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="790" y="805" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">4</text>
+      <text x="860" y="805" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">5</text>
+      <text x="930" y="805" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">6</text>
+      <text x="1000" y="805" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">+</text>
+    </g>
+    
+    <!-- Row 4 -->
+    <g>
+      <rect x="620" y="840" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="690" y="840" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="760" y="840" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="830" y="840" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="900" y="840" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="970" y="840" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="1040" y="840" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      
+      <text x="650" y="875" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="720" y="875" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="790" y="875" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">1</text>
+      <text x="860" y="875" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">2</text>
+      <text x="930" y="875" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">3</text>
+      <text x="1000" y="875" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">ENTER</text>
+      <text x="1070" y="875" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+    </g>
+    
+    <!-- Row 5 (thumbs) -->
+    <g>
+      <rect x="620" y="910" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="690" y="910" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="760" y="910" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="830" y="910" width="60" height="60" rx="6" ry="6" fill="#F687B3" stroke="#ED64A6"/>
+      <rect x="900" y="910" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      
+      <text x="650" y="945" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="720" y="945" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="790" y="945" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">0</text>
+      <text x="860" y="945" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#1A202C">LOWER</text>
+      <text x="930" y="945" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C">.</text>
+    </g>
+  </g>
+
+  <!-- Keyboard Case Outline - Lower Layer -->
+  <path d="M90,600 Q70,600 70,620 L70,990 Q70,1010 90,1010 L570,1010 Q590,1010 590,990 L590,620 Q590,600 570,600 L90,600 Z" stroke="#CBD5E0" stroke-width="2" fill="none"/>
+  <path d="M630,600 Q610,600 610,620 L610,990 Q610,1010 630,1010 L1130,1010 Q1150,1010 1150,990 L1150,620 Q1150,600 1130,600 L630,600 Z" stroke="#CBD5E0" stroke-width="2" fill="none"/>
+  
+  <!-- Layer name -->
+  <text x="600" y="1060" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" font-weight="bold" fill="#B794F4">
+    Raise Layer (Adjust/Bluetooth)
+  </text>
+  
+  <!-- Left half of keyboard - Raise Layer -->
+  <g id="left-raise">
+    <!-- Row 1 -->
+    <g>
+      <rect x="100" y="1110" width="60" height="60" rx="6" ry="6" fill="#B794F4" stroke="#9F7AEA"/>
+      <rect x="170" y="1110" width="60" height="60" rx="6" ry="6" fill="#B794F4" stroke="#9F7AEA"/>
+      <rect x="240" y="1110" width="60" height="60" rx="6" ry="6" fill="#B794F4" stroke="#9F7AEA"/>
+      <rect x="310" y="1110" width="60" height="60" rx="6" ry="6" fill="#B794F4" stroke="#9F7AEA"/>
+      <rect x="380" y="1110" width="60" height="60" rx="6" ry="6" fill="#B794F4" stroke="#9F7AEA"/>
+      <rect x="450" y="1110" width="60" height="60" rx="6" ry="6" fill="#B794F4" stroke="#9F7AEA"/>
+      
+      <text x="130" y="1135" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#1A202C">BT</text>
+      <text x="130" y="1150" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1A202C">CLEAR</text>
+      <text x="200" y="1135" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#1A202C">BT</text>
+      <text x="200" y="1150" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1A202C">SEL 0</text>
+      <text x="270" y="1135" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#1A202C">BT</text>
+      <text x="270" y="1150" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1A202C">SEL 1</text>
+      <text x="340" y="1135" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#1A202C">BT</text>
+      <text x="340" y="1150" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1A202C">SEL 2</text>
+      <text x="410" y="1135" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#1A202C">BT</text>
+      <text x="410" y="1150" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1A202C">SEL 3</text>
+      <text x="480" y="1135" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#1A202C">BT</text>
+      <text x="480" y="1150" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1A202C">SEL 4</text>
+    </g>
+    
+    <!-- Row 2 -->
+    <g>
+      <rect x="100" y="1180" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="170" y="1180" width="60" height="60" rx="6" ry="6" fill="#FBB6CE" stroke="#F687B3"/>
+      <rect x="240" y="1180" width="60" height="60" rx="6" ry="6" fill="#FBB6CE" stroke="#F687B3"/>
+      <rect x="310" y="1180" width="60" height="60" rx="6" ry="6" fill="#FBB6CE" stroke="#F687B3"/>
+      <rect x="380" y="1180" width="60" height="60" rx="6" ry="6" fill="#FBB6CE" stroke="#F687B3"/>
+      <rect x="450" y="1180" width="60" height="60" rx="6" ry="6" fill="#FBB6CE" stroke="#F687B3"/>
+      
+      <text x="130" y="1210" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="200" y="1205" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1A202C">RGB</text>
+      <text x="200" y="1220" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1A202C">HUE+</text>
+      <text x="270" y="1205" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1A202C">RGB</text>
+      <text x="270" y="1220" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1A202C">SAT+</text>
+      <text x="340" y="1205" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1A202C">RGB</text>
+      <text x="340" y="1220" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1A202C">BRI+</text>
+      <text x="410" y="1205" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1A202C">RGB</text>
+      <text x="410" y="1220" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1A202C">EFF+</text>
+      <text x="480" y="1205" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1A202C">RGB</text>
+      <text x="480" y="1220" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1A202C">SPD+</text>
+    </g>
+    
+    <!-- Row 3 -->
+    <g>
+      <rect x="100" y="1250" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="170" y="1250" width="60" height="60" rx="6" ry="6" fill="#FBB6CE" stroke="#F687B3"/>
+      <rect x="240" y="1250" width="60" height="60" rx="6" ry="6" fill="#FBB6CE" stroke="#F687B3"/>
+      <rect x="310" y="1250" width="60" height="60" rx="6" ry="6" fill="#FBB6CE" stroke="#F687B3"/>
+      <rect x="380" y="1250" width="60" height="60" rx="6" ry="6" fill="#FBB6CE" stroke="#F687B3"/>
+      <rect x="450" y="1250" width="60" height="60" rx="6" ry="6" fill="#FBB6CE" stroke="#F687B3"/>
+      
+      <text x="130" y="1285" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="200" y="1275" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1A202C">RGB</text>
+      <text x="200" y="1290" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1A202C">HUE-</text>
+      <text x="270" y="1275" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1A202C">RGB</text>
+      <text x="270" y="1290" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1A202C">SAT-</text>
+      <text x="340" y="1275" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1A202C">RGB</text>
+      <text x="340" y="1290" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1A202C">BRI-</text>
+      <text x="410" y="1275" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1A202C">RGB</text>
+      <text x="410" y="1290" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1A202C">EFF-</text>
+      <text x="480" y="1275" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1A202C">RGB</text>
+      <text x="480" y="1290" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1A202C">SPD-</text>
+    </g>
+    
+    <!-- Row 4 -->
+    <g>
+      <rect x="100" y="1320" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="170" y="1320" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="240" y="1320" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="310" y="1320" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="380" y="1320" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="450" y="1320" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="520" y="1320" width="60" height="60" rx="6" ry="6" fill="#FBB6CE" stroke="#F687B3"/>
+      
+      <text x="130" y="1355" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="200" y="1355" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="270" y="1355" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="340" y="1355" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="410" y="1355" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="480" y="1355" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="550" y="1345" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1A202C">RGB</text>
+      <text x="550" y="1360" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1A202C">TOG</text>
+    </g>
+    
+    <!-- Row 5 (thumbs) -->
+    <g>
+      <rect x="240" y="1390" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="310" y="1390" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="380" y="1390" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="450" y="1390" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="520" y="1390" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      
+      <text x="270" y="1425" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="340" y="1425" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="410" y="1425" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="480" y="1425" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="550" y="1425" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+    </g>
+
+    <!-- Left encoder -->
+    <g>
+      <circle cx="550" cy="1280" r="30" fill="#FBB6CE" stroke="#F687B3" stroke-width="2"/>
+      <text x="550" y="1275" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#1A202C">RGB</text>
+      <text x="550" y="1295" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#1A202C">BRI ±</text>
+    </g>
+  </g>
+  
+  <!-- Right half of keyboard - Raise Layer -->
+  <g>
+    <!-- Row 1 -->
+    <g>
+      <rect x="690" y="1110" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="760" y="1110" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="830" y="1110" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="900" y="1110" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="970" y="1110" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="1040" y="1110" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      
+      <text x="720" y="1145" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="790" y="1145" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="860" y="1145" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="930" y="1145" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="1000" y="1145" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="1070" y="1145" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+    </g>
+    
+    <!-- Row 2 -->
+    <g>
+      <rect x="690" y="1180" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="760" y="1180" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="830" y="1180" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="900" y="1180" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="970" y="1180" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="1040" y="1180" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      
+      <text x="720" y="1215" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="790" y="1215" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="860" y="1215" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="930" y="1215" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="1000" y="1215" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="1070" y="1215" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+    </g>
+    
+    <!-- Row 3 -->
+    <g>
+      <rect x="690" y="1250" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="760" y="1250" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="830" y="1250" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="900" y="1250" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="970" y="1250" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="1040" y="1250" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      
+      <text x="720" y="1285" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="790" y="1285" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="860" y="1285" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="930" y="1285" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="1000" y="1285" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="1070" y="1285" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+    </g>
+    
+    <!-- Row 4 -->
+    <g>
+      <rect x="620" y="1320" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="690" y="1320" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="760" y="1320" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="830" y="1320" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="900" y="1320" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="970" y="1320" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="1040" y="1320" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      
+      <text x="650" y="1355" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="720" y="1355" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="790" y="1355" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="860" y="1355" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="930" y="1355" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="1000" y="1355" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="1070" y="1355" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+    </g>
+    
+    <!-- Row 5 (thumbs) -->
+    <g>
+      <rect x="620" y="1390" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="690" y="1390" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="760" y="1390" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="830" y="1390" width="60" height="60" rx="6" ry="6" fill="#E2E8F0" stroke="#CBD5E0"/>
+      <rect x="900" y="1390" width="60" height="60" rx="6" ry="6" fill="#B794F4" stroke="#9F7AEA"/>
+      
+      <text x="650" y="1425" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="720" y="1425" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="790" y="1425" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="860" y="1425" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1A202C"></text>
+      <text x="930" y="1425" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#1A202C">RAISE</text>
+    </g>
+
+    <!-- Right encoder -->
+    <g>
+      <circle cx="650" cy="1280" r="30" fill="#E2E8F0" stroke="#CBD5E0" stroke-width="2"/>
+      <text x="650" y="1275" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#1A202C">SCREEN</text>
+      <text x="650" y="1295" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#1A202C">BRI ±</text>
+    </g>
+  </g>
+
+  <!-- Keyboard Case Outline - Raise Layer -->
+  <path d="M90,1080 Q70,1080 70,1100 L70,1470 Q70,1490 90,1490 L570,1490 Q590,1490 590,1470 L590,1100 Q590,1080 570,1080 L90,1080 Z" stroke="#CBD5E0" stroke-width="2" fill="none"/>
+<path d="M630,1080 Q610,1080 610,1100 L610,1470 Q610,1490 630,1490 L1130,1490 Q1150,1490 1150,1470 L1150,1100 Q1150,1080 1130,1080 L630,1080 Z" stroke="#CBD5E0" stroke-width="2" fill="none"/>
+  
+  <!-- Legend -->
+  <g id="legend">
+    <rect x="150" y="1550" width="900" height="200" rx="8" ry="8" fill="#EDF2F7" stroke="#CBD5E0"/>
+    
+    <!-- Title -->
+    <text x="600" y="1580" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" font-weight="bold" fill="#1A202C">
+      Keyboard Features Guide
+    </text>
+    
+    <!-- Layer switching -->
+    <rect x="180" y="1610" width="20" height="20" fill="#F687B3" stroke="#ED64A6"/>
+    <text x="210" y="1625" font-family="Arial, sans-serif" font-size="16" fill="#1A202C">LOWER key (pink) - Access number pad and function keys</text>
+    
+    <rect x="180" y="1640" width="20" height="20" fill="#B794F4" stroke="#9F7AEA"/>
+    <text x="210" y="1655" font-family="Arial, sans-serif" font-size="16" fill="#1A202C">RAISE key (purple) - Access Bluetooth and RGB controls</text>
+    
+    <!-- Encoders -->
+    <circle cx="190" cy="1680" r="10" fill="#90CDF4" stroke="#63B3ED" stroke-width="2"/>
+    <text x="210" y="1685" font-family="Arial, sans-serif" font-size="16" fill="#1A202C">Rotary encoders for volume, media control and brightness</text>
+    
+    <!-- Media keys -->
+    <rect x="180" y="1710" width="20" height="20" fill="#90CDF4" stroke="#63B3ED"/>
+    <text x="210" y="1725" font-family="Arial, sans-serif" font-size="16" fill="#1A202C">Media control keys (MUTE, PLAY/PAUSE) - Also function as rotary encoders</text>
+  </g>
+</svg>
